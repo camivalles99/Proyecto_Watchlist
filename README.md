@@ -53,7 +53,7 @@ La aplicación diferencia entre películas (controlando horas/minutos) y series 
 
 * `index.php`: Dashboard principal (Listas y formularios).
 * `login.php`: Pantalla de acceso y registro.
-* `editar.php`: Pantalla para actualizar el progreso de una serie/peli.
+* `editar.php`: Pantalla para actualizar el progreso de una serie/pelíucla.
 * `perfil.php`: Gestión de cuenta de usuario.
 * `db.php`: Conexión a la base de datos.
 * `style.css`: Estilos visuales.
