@@ -2,7 +2,7 @@
 session_start();
 include 'db.php';
 
-// Seguridad: Si no hay login, fuera
+
 if (!isset($_SESSION['id_usuario'])) { header("Location: login.php"); exit(); }
 $mi_id = $_SESSION['id_usuario'];
 
