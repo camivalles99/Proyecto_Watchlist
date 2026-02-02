@@ -31,7 +31,7 @@ La aplicación diferencia entre películas (controlando horas/minutos) y series 
 ## Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3, JavaScript.
-* **Backend:** PHP (Sin frameworks, código nativo).
+* **Backend:** PHP.
 * **Base de Datos:** MySQL.
 * **Servidor Local:** XAMPP (Apache).
 
@@ -58,6 +58,6 @@ La aplicación diferencia entre películas (controlando horas/minutos) y series 
 * `db.php`: Conexión a la base de datos.
 * `style.css`: Estilos visuales.
 * `script.js`: Lógica del frontend (mostrar/ocultar campos).
-* `database.sql`: Script de creación de las tablas.
+* `proyecto_watchlist.sql`: Script de creación de las tablas.
 
 
